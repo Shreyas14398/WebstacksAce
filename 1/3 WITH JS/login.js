@@ -7,6 +7,6 @@ function logincheck()
         alert("Please fill all the fields");
         return false;
       }
-      else
-      	alert("Logged in...yay!!")
-	}
+			else{
+			console.log("Logged In!");}
+		}
