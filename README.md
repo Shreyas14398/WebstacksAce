@@ -1,4 +1,9 @@
 # Webstacks Ace
 Contributed by Shreyas and Sai Svas
 
-1 . Contains the code for facebook login page with html , css and js seperately
+Folder "1" contains Task 1(Facebook login page replication)
+->1 ONLY HTML(Sai Svas)
+->2 WITH CSS(Sai Svas)
+->3 WITH JS(Sai Svas)
+->EXTRA (Shreyas)
+
