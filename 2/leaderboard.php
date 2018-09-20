@@ -96,9 +96,10 @@ th {
     <div class="container">
 	<div class="row ">
 		<div class="col login-sec">
+			<form method="post" action="leaderboard.php">
 		    <h2 style="display: inline-block;" class="text-center">Leaderboard</h2><button style="float: right;" name="logout" type="submit" class="btn btn-danger">Logout</button>
 
-	<form method="post" action="leaderboard.php">
+	
 	<table>
 	<thead>
 		<th>Rank</th>
