@@ -107,7 +107,7 @@ session_start();
     
     <button type="submit" class="btn btn-login float-right" name="login" onclick="return validate()">Submit</button>
 </form>
-<button type="button" class="btn btn-info" data-toggle="collapse" data-target="#dem">Check login details here</button>
+<button type="button" class="btn btn-info" data-toggle="collapse" data-target="#dem">Login details</button>
   </div>
     
     <div id="dem" class="collapse">
