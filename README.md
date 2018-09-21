@@ -8,7 +8,4 @@ Folder "1" contains Task 1(Facebook login page replication)
 ->EXTRA (Shreyas)
 
 Folder "2" contains Task 2(Leaderboard application with database)
-->1 leaderboard.php(Sai Svas)
-->2 login.php(Sai Svas)
-->3 login1.php(Shreyas)
-->EXTRA (Shreyas)
+Sai Svas and Shreyas
