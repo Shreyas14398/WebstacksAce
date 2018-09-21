@@ -10,4 +10,4 @@ Folder "1" contains Task 1(Facebook login page replication)
 Folder "2" contains Task 2(Leaderboard application with database)
 Sai Svas and Shreyas
 PHP : The site can be viewed online here , <a href="https://aceleaderboard.000webhostapp.com/">Ace leaderboard</a>
-Node : Run the server.js file and go to "localhost:8080" 
+Node : Run the server.js file and go to "localhost:8080" .
